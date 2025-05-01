@@ -13,7 +13,7 @@ Email Me 👉 ✉️ 7210ritik@gmail.com
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Bojpuri power star) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ritikmusict) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:7210ritik@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://www.facebook.com/share/1AQEYrUibY/](https://www.facebook.com/share/1AQEYrUibY/)) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ritikmusict) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:7210ritik@gmail.com) 
 
 
 
