@@ -4,12 +4,17 @@
 WEB DEVELOPER || UI DESIGNER
 
 Email Me 👉 ✉️ 7210ritik@gmail.com 
+
 🔭 I’m currently working on: Plant identify project
+
 🌱 I’m currently learning: mern stack
+
 👯 I’m looking to collaborate on: e commerce
-🤔 I’m looking for help with: chart bot ai
+
 💬 Ask me about: Collaboration, Tech Support
+
 📫 How to reach me: 7210ritik@gmail.com
+
 ⚡ Fun fact: I Love Tech and Tech Love Me
 
 
